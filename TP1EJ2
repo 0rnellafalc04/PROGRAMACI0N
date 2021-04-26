@@ -1,0 +1,14 @@
+Algoritmo edad_de_un_Persona
+		Definir año_nac Como Entero
+		Definir año_actual Como Entero
+		Definir edad Como Entero
+		Escribir "Ingrese el año de nacimiento de la persona"
+		Leer año_nac
+		Escribir "Ingrese el año actual de la persona"
+		Leer año_actual
+		Escribir "Proceso"
+		edad= año_actual - año_nac
+		Escribir "la edad de la persona es" edad "años"
+	
+	
+FinAlgoritmo

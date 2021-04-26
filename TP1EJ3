@@ -1,0 +1,10 @@
+Algoritmo nombre_apellido
+	Definir nombre Como Caracter
+	Definir apellido Como Caracter
+	Escribir "Ingrese el nombre de la persona"
+	Leer nombre
+	Escribir "Ingrese el apellido de la persona"
+	Leer apellido
+	Escribir "El nombre y apellido es:" nombre "_" apellido
+	
+FinAlgoritmo
